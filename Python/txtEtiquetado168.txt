@@ -1,0 +1,1 @@
+{'respeto': 'Alegría\n', 'bien': 'Alegría\n', 'enojado': 'Enojo\n', 'solo': 'Tristeza\n', 'feo': 'Miedo\n', 'agradable': 'Alegría\n', 'morboso': 'Repulsión\n', 'basura': 'Repulsión\n', 'bueno': 'Alegría\n', 'libre': 'Alegría\n', 'mal': 'Tristeza\n', 'asqueroso': 'Repulsión\n', 'exagerar': 'Enojo\n'}

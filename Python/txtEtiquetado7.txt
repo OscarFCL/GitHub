@@ -1,0 +1,1 @@
+{'tranquilo': 'Alegría\n', 'seguro': 'Alegría\n', 'solo': 'Tristeza\n', 'cumplir': 'Alegría\n'}

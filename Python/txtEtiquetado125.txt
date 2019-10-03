@@ -1,0 +1,1 @@
+{'amor': 'Alegría\n', 'empeño': 'Alegría\n', 'gusto': 'Alegría\n', 'mal': 'Tristeza\n', 'seguro': 'Alegría\n', 'excelente': 'Alegría\n', 'bien': 'Alegría\n'}

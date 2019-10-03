@@ -1,0 +1,1 @@
+{'entregar': 'Alegría\n', 'seguro': 'Alegría\n', 'serio': 'Tristeza\n', 'saber': 'Alegría\n', 'impresionante': 'Sorpresa\n', 'final': 'Alegría\n', 'bien': 'Alegría\n', 'piedad': 'Alegría\n', 'excelente': 'Alegría\n'}

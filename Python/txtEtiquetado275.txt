@@ -1,0 +1,1 @@
+{'realizar': 'Alegría\n', 'bien': 'Alegría\n', 'entregar': 'Alegría\n', 'excelente': 'Alegría\n', 'bajo': 'Tristeza\n', 'saber': 'Alegría\n', 'solo': 'Tristeza\n', 'final': 'Alegría\n', 'cuenta': 'Enojo\n', 'odioso': 'Repulsión\n', 'mejorar': 'Alegría\n', 'mal': 'Tristeza\n'}

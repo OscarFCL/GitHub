@@ -1,0 +1,1 @@
+{'bien': 'Alegría\n', 'entregar': 'Alegría\n', 'final': 'Alegría\n', 'bueno': 'Alegría\n', 'interés': 'Alegría\n', 'solo': 'Tristeza\n', 'mal': 'Tristeza\n', 'cuenta': 'Enojo\n', 'empeño': 'Alegría\n', 'vil': 'Repulsión\n', 'agarrar': 'Enojo\n', 'loco': 'Enojo\n', 'diablo': 'Miedo\n', 'serio': 'Tristeza\n', 'pésimo': 'Repulsión\n', 'entrar': 'Alegría\n'}

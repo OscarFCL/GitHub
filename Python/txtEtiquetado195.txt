@@ -1,0 +1,1 @@
+{'histérico': 'Miedo\n', 'final': 'Alegría\n', 'bueno': 'Alegría\n', 'bien': 'Alegría\n', 'excelente': 'Alegría\n', 'entregar': 'Alegría\n', 'agradable': 'Alegría\n', 'cuenta': 'Enojo\n', 'pesado': 'Enojo\n', 'desorden': 'Enojo\n'}

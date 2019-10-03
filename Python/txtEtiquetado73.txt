@@ -1,0 +1,1 @@
+{'mejorar': 'Alegría\n', 'basura': 'Repulsión\n', 'pésimo': 'Repulsión\n', 'solo': 'Tristeza\n', 'ejemplo': 'Alegría\n', 'favor': 'Alegría\n', 'malo': 'Tristeza\n', 'querer': 'Alegría\n', 'excelente': 'Alegría\n', 'mal': 'Tristeza\n'}

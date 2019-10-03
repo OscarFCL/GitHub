@@ -1,0 +1,1 @@
+{'amante': 'Alegría\n', 'solo': 'Tristeza\n'}

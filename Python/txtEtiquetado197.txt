@@ -1,0 +1,1 @@
+{'cuenta': 'Enojo\n', 'desear': 'Enojo\n', 'exagerar': 'Enojo\n', 'solo': 'Tristeza\n', 'respeto': 'Alegría\n'}

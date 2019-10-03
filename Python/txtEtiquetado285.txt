@@ -1,0 +1,1 @@
+{'mal': 'Tristeza\n', 'elección': 'Alegría\n', 'final': 'Alegría\n', 'solo': 'Tristeza\n', 'bueno': 'Alegría\n', 'amigo': 'Alegría\n', 'pésimo': 'Repulsión\n', 'burla': 'Alegría\n', 'gusto': 'Alegría\n', 'regalo': 'Alegría\n', 'gana': 'Alegría\n', 'bien': 'Alegría\n', 'miedo': 'Sorpresa\n', 'seguro': 'Alegría\n', 'malo': 'Tristeza\n', 'desgracia': 'Tristeza\n'}

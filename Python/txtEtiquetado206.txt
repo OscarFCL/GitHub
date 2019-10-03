@@ -1,0 +1,1 @@
+{'bien': 'Alegría\n', 'agobiar': 'Tristeza\n', 'entrar': 'Alegría\n', 'entregar': 'Alegría\n'}

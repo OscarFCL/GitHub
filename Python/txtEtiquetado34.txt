@@ -1,0 +1,1 @@
+{'final': 'Alegría\n', 'desear': 'Enojo\n', 'entregar': 'Alegría\n'}

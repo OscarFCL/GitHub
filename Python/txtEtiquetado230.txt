@@ -1,0 +1,1 @@
+{'entrar': 'Alegría\n', 'final': 'Alegría\n', 'excelente': 'Alegría\n', 'ejemplo': 'Alegría\n', 'pasión': 'Alegría\n', 'amor': 'Alegría\n', 'identificar': 'Alegría\n', 'aburrir': 'Tristeza\n', 'bien': 'Alegría\n', 'cuenta': 'Enojo\n', 'pelea': 'Enojo\n', 'admirable': 'Sorpresa\n', 'preguntar': 'Sorpresa\n', 'seguro': 'Alegría\n', 'realizar': 'Alegría\n'}

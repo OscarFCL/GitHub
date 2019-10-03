@@ -1,0 +1,1 @@
+{'malo': 'Tristeza\n', 'bien': 'Alegría\n', 'basura': 'Repulsión\n', 'favor': 'Alegría\n', 'final': 'Alegría\n', 'solo': 'Tristeza\n', 'perder': 'Tristeza\n', 'odiar': 'Enojo\n', 'pésimo': 'Repulsión\n', 'mal': 'Tristeza\n', 'excelente': 'Alegría\n', 'gusto': 'Alegría\n', 'pesado': 'Enojo\n'}

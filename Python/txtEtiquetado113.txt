@@ -1,0 +1,1 @@
+{'empeño': 'Alegría\n', 'solo': 'Tristeza\n', 'entregar': 'Alegría\n', 'bien': 'Alegría\n', 'cuenta': 'Enojo\n', 'misterio': 'Sorpresa\n', 'excelente': 'Alegría\n', 'brillante': 'Alegría\n', 'saber': 'Alegría\n', 'preguntar': 'Sorpresa\n', 'feo': 'Miedo\n', 'malo': 'Tristeza\n', 'llevar': 'Sorpresa\n', 'final': 'Alegría\n'}

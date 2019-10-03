@@ -1,0 +1,1 @@
+{'quedar': 'Sorpresa\n', 'bien': 'Alegría\n', 'feo': 'Miedo\n', 'bueno': 'Alegría\n', 'llegar': 'Sorpresa\n', 'final': 'Alegría\n', 'sufrir': 'Tristeza\n', 'incertidumbre': 'Miedo\n', 'excelente': 'Alegría\n', 'llevar': 'Sorpresa\n', 'pesar': 'Tristeza\n', 'lastima': 'Tristeza\n', 'malo': 'Tristeza\n', 'solo': 'Tristeza\n'}

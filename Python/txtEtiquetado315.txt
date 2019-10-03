@@ -1,0 +1,1 @@
+{'aprobar': 'Alegría\n', 'bueno': 'Alegría\n', 'bien': 'Alegría\n', 'pesado': 'Enojo\n', 'mal': 'Tristeza\n', 'favor': 'Alegría\n', 'entregar': 'Alegría\n', 'solo': 'Tristeza\n', 'interés': 'Alegría\n', 'amable': 'Alegría\n', 'excelente': 'Alegría\n', 'disfrutar': 'Alegría\n', 'amigable': 'Alegría\n'}

@@ -1,0 +1,1 @@
+{'paz': 'Alegría\n', 'malo': 'Tristeza\n', 'final': 'Alegría\n', 'solo': 'Tristeza\n'}

@@ -1,0 +1,1 @@
+{'quedar': 'Sorpresa\n', 'bien': 'Alegría\n', 'excelente': 'Alegría\n', 'basura': 'Repulsión\n', 'cuenta': 'Enojo\n'}

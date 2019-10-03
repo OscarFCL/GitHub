@@ -1,0 +1,1 @@
+{'cuenta': 'Enojo\n', 'excelente': 'Alegría\n', 'llevar': 'Sorpresa\n', 'amor': 'Alegría\n', 'bien': 'Alegría\n', 'solo': 'Tristeza\n', 'presumir': 'Alegría\n', 'serio': 'Tristeza\n', 'pena': 'Tristeza\n', 'seguro': 'Alegría\n', 'bueno': 'Alegría\n', 'preguntar': 'Sorpresa\n', 'perder': 'Tristeza\n', 'estrellas': 'Sorpresa\n', 'saber': 'Alegría\n'}

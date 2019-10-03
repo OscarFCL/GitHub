@@ -1,0 +1,1 @@
+{'final': 'Alegría\n', 'saber': 'Alegría\n', 'bien': 'Alegría\n', 'mal': 'Tristeza\n', 'solo': 'Tristeza\n', 'gusto': 'Alegría\n'}

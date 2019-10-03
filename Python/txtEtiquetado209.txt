@@ -1,0 +1,1 @@
+{'cuidar': 'Alegría\n', 'bueno': 'Alegría\n', 'solo': 'Tristeza\n', 'quedar': 'Sorpresa\n', 'mal': 'Tristeza\n'}

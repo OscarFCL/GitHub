@@ -1,0 +1,1 @@
+{'solo': 'Tristeza\n', 'inepto': 'Sorpresa\n', 'final': 'Alegría\n', 'malo': 'Tristeza\n', 'excelente': 'Alegría\n'}

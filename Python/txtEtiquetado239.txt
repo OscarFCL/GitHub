@@ -1,0 +1,1 @@
+{'bien': 'Alegría\n', 'final': 'Alegría\n', 'solo': 'Tristeza\n', 'excelente': 'Alegría\n', 'ejemplo': 'Alegría\n', 'bajo': 'Tristeza\n', 'gusto': 'Alegría\n', 'dedicar': 'Alegría\n', 'cuenta': 'Enojo\n', 'malo': 'Tristeza\n'}

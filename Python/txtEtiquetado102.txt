@@ -1,0 +1,1 @@
+{'gusto': 'Alegría\n', 'excelente': 'Alegría\n', 'pesado': 'Enojo\n', 'solo': 'Tristeza\n', 'amablemente': 'Alegría\n', 'bien': 'Alegría\n', 'malo': 'Tristeza\n', 'final': 'Alegría\n', 'preguntar': 'Sorpresa\n', 'tranquilo': 'Alegría\n', 'recompensa': 'Alegría\n'}

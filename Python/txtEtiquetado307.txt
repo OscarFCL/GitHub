@@ -1,0 +1,1 @@
+{'encanto': 'Alegría\n', 'desgracia': 'Tristeza\n'}

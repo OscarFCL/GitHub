@@ -1,0 +1,1 @@
+{'respetuoso': 'Alegría\n', 'solo': 'Tristeza\n', 'bien': 'Alegría\n'}

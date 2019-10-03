@@ -1,0 +1,1 @@
+{'preguntar': 'Sorpresa\n', 'excelente': 'Alegría\n', 'bien': 'Alegría\n', 'cuenta': 'Enojo\n', 'solo': 'Tristeza\n', 'bueno': 'Alegría\n'}

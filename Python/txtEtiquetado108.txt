@@ -1,0 +1,1 @@
+{'culpa': 'Tristeza\n', 'amable': 'Alegría\n', 'agradable': 'Alegría\n', 'solo': 'Tristeza\n', 'entregar': 'Alegría\n', 'grande': 'Alegría\n', 'tragedia': 'Miedo\n', 'humanidad': 'Alegría\n', 'bueno': 'Alegría\n'}

@@ -1,0 +1,1 @@
+{'lastima': 'Tristeza\n', 'gracioso': 'Alegría\n'}

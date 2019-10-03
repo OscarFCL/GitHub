@@ -1,0 +1,1 @@
+{'pesar': 'Tristeza\n', 'seguro': 'Alegría\n', 'echar': 'Tristeza\n', 'bien': 'Alegría\n', 'excelente': 'Alegría\n', 'entregar': 'Alegría\n', 'cumplir': 'Alegría\n', 'amor': 'Alegría\n', 'caer': 'Tristeza\n', 'pasión': 'Alegría\n', 'solo': 'Tristeza\n'}

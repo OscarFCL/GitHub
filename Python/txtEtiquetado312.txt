@@ -1,0 +1,1 @@
+{'seguro': 'Alegría\n', 'serio': 'Tristeza\n', 'interés': 'Alegría\n', 'final': 'Alegría\n', 'malo': 'Tristeza\n', 'excelente': 'Alegría\n', 'gusto': 'Alegría\n', 'bien': 'Alegría\n', 'preguntar': 'Sorpresa\n', 'maldad': 'Miedo\n', 'cuenta': 'Enojo\n', 'entregar': 'Alegría\n', 'ejemplo': 'Alegría\n', 'bruto': 'Sorpresa\n'}

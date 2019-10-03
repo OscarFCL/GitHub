@@ -1,0 +1,1 @@
+{'diablo': 'Miedo\n', 'excelente': 'Alegría\n', 'final': 'Alegría\n', 'bien': 'Alegría\n', 'humor': 'Enojo\n', 'amigo': 'Alegría\n', 'basura': 'Repulsión\n', 'llegar': 'Sorpresa\n', 'risa': 'Alegría\n'}

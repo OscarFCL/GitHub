@@ -1,0 +1,1 @@
+{'cuenta': 'Enojo\n', 'bien': 'Alegría\n', 'intimidar': 'Miedo\n', 'entregar': 'Alegría\n', 'preguntar': 'Sorpresa\n', 'interés': 'Alegría\n', 'provocar': 'Enojo\n'}

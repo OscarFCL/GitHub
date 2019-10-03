@@ -1,0 +1,1 @@
+{'cautivador': 'Alegría\n', 'encantador': 'Alegría\n'}

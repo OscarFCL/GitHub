@@ -1,0 +1,1 @@
+{'bien': 'Alegría\n', 'solo': 'Tristeza\n', 'llegar': 'Sorpresa\n', 'entregar': 'Alegría\n', 'cuenta': 'Enojo\n', 'bueno': 'Alegría\n', 'conseguir': 'Sorpresa\n', 'pesado': 'Enojo\n', 'sufrir': 'Tristeza\n', 'malo': 'Tristeza\n', 'pena': 'Tristeza\n', 'entrar': 'Alegría\n', 'amor': 'Alegría\n', 'excelente': 'Alegría\n'}

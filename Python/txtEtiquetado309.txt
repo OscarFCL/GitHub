@@ -1,0 +1,1 @@
+{'rompecabezas': 'Sorpresa\n', 'solo': 'Tristeza\n', 'final': 'Alegría\n', 'tranquilo': 'Alegría\n', 'seguro': 'Alegría\n', 'bien': 'Alegría\n', 'enojar': 'Enojo\n', 'entregar': 'Alegría\n', 'realizar': 'Alegría\n', 'mancha': 'Repulsión\n', 'excelente': 'Alegría\n', 'cuidar': 'Alegría\n', 'bueno': 'Alegría\n'}

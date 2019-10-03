@@ -1,0 +1,1 @@
+{'excelente': 'Alegría\n', 'final': 'Alegría\n', 'pena': 'Tristeza\n'}

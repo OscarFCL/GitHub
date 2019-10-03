@@ -1,0 +1,1 @@
+{'solo': 'Tristeza\n', 'mal': 'Tristeza\n', 'insulto': 'Repulsión\n'}

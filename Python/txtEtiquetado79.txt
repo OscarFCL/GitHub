@@ -1,0 +1,1 @@
+{'cariño': 'Alegría\n', 'final': 'Alegría\n', 'bien': 'Alegría\n', 'solo': 'Tristeza\n', 'pérdida': 'Tristeza\n', 'realizar': 'Alegría\n', 'cuenta': 'Enojo\n', 'excelente': 'Alegría\n', 'bueno': 'Alegría\n'}

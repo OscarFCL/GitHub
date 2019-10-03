@@ -1,0 +1,1 @@
+{'cumplido': 'Alegría\n', 'solo': 'Tristeza\n', 'bien': 'Alegría\n', 'amable': 'Alegría\n', 'compañerismo': 'Alegría\n', 'amistad': 'Alegría\n', 'bueno': 'Alegría\n', 'pérdida': 'Tristeza\n', 'cumplir': 'Alegría\n', 'final': 'Alegría\n', 'tranquilo': 'Alegría\n'}

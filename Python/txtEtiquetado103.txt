@@ -1,0 +1,1 @@
+{'mal': 'Tristeza\n', 'cuenta': 'Enojo\n', 'final': 'Alegría\n', 'bien': 'Alegría\n', 'excelente': 'Alegría\n'}

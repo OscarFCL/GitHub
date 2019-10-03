@@ -1,0 +1,1 @@
+{'respetuoso': 'Alegría\n', 'sonriente': 'Alegría\n', 'entregar': 'Alegría\n', 'final': 'Alegría\n', 'excelente': 'Alegría\n', 'bien': 'Alegría\n', 'feliz': 'Alegría\n', 'agradable': 'Alegría\n', 'solo': 'Tristeza\n', 'gusto': 'Alegría\n', 'admirable': 'Sorpresa\n', 'aprobar': 'Alegría\n'}

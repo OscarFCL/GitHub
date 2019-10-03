@@ -1,0 +1,1 @@
+{'pesado': 'Enojo\n', 'final': 'Alegría\n', 'amable': 'Alegría\n', 'bien': 'Alegría\n', 'humor': 'Enojo\n', 'solo': 'Tristeza\n'}

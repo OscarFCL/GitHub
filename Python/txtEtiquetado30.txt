@@ -1,0 +1,1 @@
+{'bien': 'Alegría\n', 'excelente': 'Alegría\n', 'valorar': 'Alegría\n', 'final': 'Alegría\n', 'pesado': 'Enojo\n', 'piedad': 'Alegría\n'}

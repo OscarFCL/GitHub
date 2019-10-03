@@ -1,0 +1,1 @@
+{'fantástico': 'Sorpresa\n', 'aburrir': 'Tristeza\n'}

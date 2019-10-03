@@ -1,0 +1,1 @@
+{'confuso': 'Tristeza\n', 'mal': 'Tristeza\n', 'solo': 'Tristeza\n', 'pésimo': 'Repulsión\n', 'bien': 'Alegría\n', 'llegar': 'Sorpresa\n', 'entrar': 'Alegría\n', 'bueno': 'Alegría\n', 'repente': 'Sorpresa\n', 'cuenta': 'Enojo\n'}

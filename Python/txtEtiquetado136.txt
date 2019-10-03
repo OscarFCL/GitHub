@@ -1,0 +1,1 @@
+{'pésimo': 'Repulsión\n', 'solo': 'Tristeza\n', 'bien': 'Alegría\n', 'cuenta': 'Enojo\n', 'amor': 'Alegría\n', 'pesar': 'Tristeza\n', 'saber': 'Alegría\n'}

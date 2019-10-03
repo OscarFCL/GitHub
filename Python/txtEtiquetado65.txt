@@ -1,0 +1,1 @@
+{'ganar': 'Alegría\n', 'loco': 'Enojo\n', 'solo': 'Tristeza\n', 'cuenta': 'Enojo\n'}

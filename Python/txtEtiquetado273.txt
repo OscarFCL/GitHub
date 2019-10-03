@@ -1,0 +1,1 @@
+{'amable': 'Alegría\n', 'final': 'Alegría\n', 'comprensivo': 'Alegría\n', 'aprobar': 'Alegría\n', 'bien': 'Alegría\n', 'saber': 'Alegría\n', 'amor': 'Alegría\n', 'entregar': 'Alegría\n', 'entrar': 'Alegría\n', 'solo': 'Tristeza\n', 'burla': 'Alegría\n'}

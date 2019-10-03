@@ -1,0 +1,1 @@
+{'preguntar': 'Sorpresa\n', 'bien': 'Alegría\n', 'final': 'Alegría\n', 'entregar': 'Alegría\n', 'realizar': 'Alegría\n', 'malo': 'Tristeza\n', 'llevar': 'Sorpresa\n', 'solo': 'Tristeza\n', 'ejemplo': 'Alegría\n', 'aprobar': 'Alegría\n', 'seguro': 'Alegría\n', 'misterio': 'Sorpresa\n', 'cuenta': 'Enojo\n', 'saber': 'Alegría\n', 'mal': 'Tristeza\n', 'bajo': 'Tristeza\n'}

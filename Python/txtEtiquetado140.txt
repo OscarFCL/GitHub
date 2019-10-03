@@ -1,0 +1,1 @@
+{'ganar': 'Alegría\n', 'interés': 'Alegría\n', 'confuso': 'Tristeza\n', 'solo': 'Tristeza\n', 'aburrir': 'Tristeza\n', 'pésimo': 'Repulsión\n', 'desear': 'Enojo\n', 'bueno': 'Alegría\n', 'perder': 'Tristeza\n'}

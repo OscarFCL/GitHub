@@ -1,0 +1,1 @@
+{'final': 'Alegría\n', 'entregar': 'Alegría\n', 'caer': 'Tristeza\n', 'bien': 'Alegría\n', 'sorpresa': 'Sorpresa\n', 'muerte': 'Tristeza\n', 'muerto': 'Tristeza\n', 'bueno': 'Alegría\n', 'solo': 'Tristeza\n', 'nefasto': 'Tristeza\n', 'cuenta': 'Enojo\n', 'mejorar': 'Alegría\n', 'llenar': 'Alegría\n', 'excelente': 'Alegría\n'}

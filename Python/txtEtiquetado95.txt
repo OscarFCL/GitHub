@@ -1,0 +1,1 @@
+{'mejorar': 'Alegría\n', 'bien': 'Alegría\n', 'miedo': 'Sorpresa\n'}

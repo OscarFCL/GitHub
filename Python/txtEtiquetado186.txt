@@ -1,0 +1,1 @@
+{'bueno': 'Alegría\n', 'bien': 'Alegría\n', 'seguro': 'Alegría\n', 'mal': 'Tristeza\n', 'entrar': 'Alegría\n', 'malo': 'Tristeza\n', 'mejorar': 'Alegría\n', 'solo': 'Tristeza\n', 'saber': 'Alegría\n'}

@@ -1,0 +1,1 @@
+{'sorpresa': 'Sorpresa\n', 'excelente': 'Alegría\n', 'perder': 'Tristeza\n', 'solo': 'Tristeza\n', 'bien': 'Alegría\n', 'distraído': 'Sorpresa\n', 'preguntar': 'Sorpresa\n', 'malo': 'Tristeza\n'}
